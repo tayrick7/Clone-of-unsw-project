@@ -1,0 +1,11 @@
+Flask
+flask_restx
+flask_sqlalchemy
+SQLAlchemy
+sqlalchemy-utils
+pymysql
+cryptography
+mlflow==2.11.1
+flask_cors
+psutil
+APScheduler
